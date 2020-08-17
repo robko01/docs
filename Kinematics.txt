@@ -1,0 +1,10 @@
+    tht1 = Math.Atn(Y / X)
+    RR = (X ^ 2 + Y ^ 2)
+    tht4 = P + R + R1 * tht1
+    tht5 = P - R - R1 * tht1
+    R0 = RR - LL * Cos(P)
+    Z0 = Z - H - LL * Sin(P)
+    Beta = Math.Atn(Z0 / R0)
+    Alpha = Math.Atn(4 * L ^ 2 / (R0 ^ 2 + Z0 ^ 2) - 1)
+    tht2 = Alpha + Beta
+    tht3 = Beta - Alpha
