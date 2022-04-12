@@ -2,4 +2,6 @@
 
 ![Picture of the robot.](images/robko01.jpg)
 
-Loremipsum
+[Link to the original documentation](Robko01.pdf)
+
+To the dear reader, the original documentation of the robot is in Bulgarian language.
